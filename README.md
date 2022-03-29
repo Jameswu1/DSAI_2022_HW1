@@ -6,6 +6,7 @@
 因此以這個模型當作最終解答
 針對這次的實作，主要是從季節，月份，星期去做分析
 分別針對不同的特徵提取可以看到明顯的不同
+![image](https://user-images.githubusercontent.com/41716487/160602422-bf515305-1235-4636-a0bd-47908ea7ed09.png)
 ![image](https://user-images.githubusercontent.com/41716487/160601977-bd11531e-5624-45bb-8931-2d0526f31e99.png)
 ![image](https://user-images.githubusercontent.com/41716487/160602021-bbbb9df3-a455-4376-9c78-42e83cbdf37b.png)
 ![image](https://user-images.githubusercontent.com/41716487/160602045-1b5f304a-84f5-4a06-beed-6d598eec9f62.png)
